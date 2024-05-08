@@ -82,6 +82,6 @@ GRAPH
 ![WhatsApp Image 2024-04-05 at 16 23 07](https://github.com/Deeksha78/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/128116204/5a7d5c06-ef59-4cfe-88bd-3f36fe2d8034)
 
 
-### RESULTS AND DISCUSSION 
+### RESULT:
 
 Thus, the speed and the direction of the DC Motor using L293D driver ic(H- bridge) is controlled.
